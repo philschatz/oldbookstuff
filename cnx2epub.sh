@@ -63,7 +63,7 @@ echo '  <manifest>' >> ${COLLECTION}.opf
 echo "    <item id=\"toc\" properties=\"nav\" href=\"${COLLECTION}-toc.xhtml\" media-type=\"application/xhtml+xml\"/>" >> ${COLLECTION}.opf
 
 # ToC Navigation doc
-HTML=$(xsltproc ${XSL_DIR}/xsl/collxml-to-html5.xsl collection.xml 2> /dev/null)
+HTML=$(xsltproc ${XSL_DIR}/collxml-to-html5.xsl collection.xml 2> /dev/null)
 echo '<?xml version="1.0" encoding="UTF-8"?>' > ${COLLECTION}-toc.xhtml
 echo "<html xmlns=\"http://www.w3.org/1999/xhtml\"><body>" >> ${COLLECTION}-toc.xhtml
 echo ${HTML} >> ${COLLECTION}-toc.xhtml
@@ -71,8 +71,8 @@ echo "</body></html>" >> ${COLLECTION}-toc.xhtml
 
 
 for ID in ${MODULES}; do
-  TITLE=$(echo ${TITLES_XSL} > xsltproc - ${ID}/index.cnxml)
-  HTML=$(xsltproc ${XSL_DIR}/xsl/cnxml-to-html5.xsl ${ID}/index.cnxml 2> /dev/null)
+  TITLE=$(echo ${TITLES_XSL} | xsltproc - ${ID}/index.cnxml)
+  HTML=$(xsltproc ${XSL_DIR}/cnxml-to-html5.xsl ${ID}/index.cnxml 2> /dev/null)
 
   # XHTML File
   echo '<?xml version="1.0" encoding="UTF-8"?>' > ${ID}.xhtml
