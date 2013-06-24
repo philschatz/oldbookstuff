@@ -2,5 +2,6 @@
 <container xmlns="urn:oasis:names:tc:opendocument:xmlns:container" version="1.0">
 <rootfiles>
   <rootfile full-path="col11406@1.7.opf" media-type="application/oebps-package+xml"/>
+  <rootfile full-path="col11448@1.9.opf" media-type="application/oebps-package+xml"/>
 </rootfiles>
 </container>

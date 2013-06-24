@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">col11448@1.9</dc:title>
+    <meta refines="#title" property="title-type">main</meta>
+    <dc:creator id="creator">Connexion</dc:creator>
+    <meta refines="#creator" property="file-as">Connexions</meta>
+    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+    <dc:identifier id="pub-id">org.cnx.sample</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2013-06-23T12:47:00Z</meta>
+    <dc:publisher>Connexions</dc:publisher>
+    <dc:rights>This work is shared with the public using the Attribution 3.0 Unported (CC BY 3.0) license.</dc:rights>
+    <link rel="cc:license" href="http://creativecommons.org/licenses/by/3.0/"/>
+    <meta property="cc:attributionURL">http://cnx.org/content/col11448/1.9</meta>
+  </metadata>
+  <manifest>
+    <item media-type="application/xhtml+xml" id="toc" href="col11448@1.9-toc.xhtml" properties="nav"/>
+    <item media-type="application/xhtml+xml" id="m44386" href="m44386.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44387" href="m44387.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44388" href="m44388.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44389" href="m44389.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44390" href="m44390.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44392" href="m44392.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44393" href="m44393.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44395" href="m44395.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44397" href="m44397.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44400" href="m44400.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44401" href="m44401.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44402" href="m44402.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44403" href="m44403.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44404" href="m44404.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44405" href="m44405.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44406" href="m44406.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44407" href="m44407.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44412" href="m44412.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44413" href="m44413.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44415" href="m44415.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44416" href="m44416.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44417" href="m44417.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44418" href="m44418.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44419" href="m44419.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44421" href="m44421.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44422" href="m44422.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44424" href="m44424.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44425" href="m44425.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44427" href="m44427.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44429" href="m44429.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44430" href="m44430.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44431" href="m44431.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44432" href="m44432.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44433" href="m44433.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44435" href="m44435.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44437" href="m44437.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44441" href="m44441.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44442" href="m44442.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44444" href="m44444.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44446" href="m44446.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44447" href="m44447.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44448" href="m44448.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44449" href="m44449.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44450" href="m44450.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44451" href="m44451.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44452" href="m44452.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44453" href="m44453.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44454" href="m44454.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44457" href="m44457.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44459" href="m44459.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44460" href="m44460.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44463" href="m44463.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44466" href="m44466.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44467" href="m44467.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44468" href="m44468.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44469" href="m44469.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44470" href="m44470.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44474" href="m44474.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44476" href="m44476.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44478" href="m44478.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44479" href="m44479.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44480" href="m44480.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44481" href="m44481.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44483" href="m44483.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44484" href="m44484.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44485" href="m44485.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44486" href="m44486.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44487" href="m44487.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44488" href="m44488.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44513" href="m44513.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44517" href="m44517.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44518" href="m44518.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44522" href="m44522.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44523" href="m44523.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44524" href="m44524.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44529" href="m44529.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44532" href="m44532.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44533" href="m44533.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44534" href="m44534.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44535" href="m44535.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44536" href="m44536.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44538" href="m44538.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44539" href="m44539.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44542" href="m44542.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44548" href="m44548.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44551" href="m44551.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44552" href="m44552.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44554" href="m44554.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44555" href="m44555.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44558" href="m44558.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44560" href="m44560.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44561" href="m44561.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44568" href="m44568.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44573" href="m44573.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44574" href="m44574.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44575" href="m44575.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44582" href="m44582.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44584" href="m44584.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44586" href="m44586.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44587" href="m44587.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44588" href="m44588.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44591" href="m44591.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44593" href="m44593.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44594" href="m44594.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44595" href="m44595.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44597" href="m44597.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44599" href="m44599.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44601" href="m44601.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44602" href="m44602.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44603" href="m44603.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44605" href="m44605.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44606" href="m44606.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44607" href="m44607.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44609" href="m44609.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44612" href="m44612.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44614" href="m44614.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44616" href="m44616.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44617" href="m44617.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44619" href="m44619.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44620" href="m44620.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44622" href="m44622.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44625" href="m44625.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44628" href="m44628.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44629" href="m44629.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44632" href="m44632.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44633" href="m44633.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44635" href="m44635.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44637" href="m44637.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44638" href="m44638.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44640" href="m44640.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44643" href="m44643.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44648" href="m44648.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44650" href="m44650.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44652" href="m44652.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44653" href="m44653.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44654" href="m44654.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44655" href="m44655.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44656" href="m44656.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44658" href="m44658.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44660" href="m44660.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44661" href="m44661.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44663" href="m44663.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44664" href="m44664.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44665" href="m44665.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44667" href="m44667.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44681" href="m44681.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44684" href="m44684.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44685" href="m44685.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44687" href="m44687.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44688" href="m44688.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44689" href="m44689.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44692" href="m44692.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44694" href="m44694.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44696" href="m44696.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44698" href="m44698.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44700" href="m44700.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44702" href="m44702.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44704" href="m44704.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44706" href="m44706.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44708" href="m44708.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44711" href="m44711.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44712" href="m44712.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44714" href="m44714.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44715" href="m44715.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44718" href="m44718.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44720" href="m44720.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44722" href="m44722.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44723" href="m44723.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44725" href="m44725.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44728" href="m44728.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44730" href="m44730.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44731" href="m44731.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44733" href="m44733.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44734" href="m44734.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44736" href="m44736.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44740" href="m44740.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44742" href="m44742.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44744" href="m44744.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44745" href="m44745.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44747" href="m44747.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44748" href="m44748.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44749" href="m44749.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44751" href="m44751.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44752" href="m44752.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44753" href="m44753.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44754" href="m44754.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44757" href="m44757.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44760" href="m44760.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44761" href="m44761.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44764" href="m44764.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44765" href="m44765.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44766" href="m44766.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44768" href="m44768.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44771" href="m44771.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44775" href="m44775.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44777" href="m44777.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44781" href="m44781.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44783" href="m44783.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44786" href="m44786.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44788" href="m44788.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44789" href="m44789.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44790" href="m44790.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44792" href="m44792.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44795" href="m44795.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44797" href="m44797.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44799" href="m44799.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44800" href="m44800.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44801" href="m44801.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44804" href="m44804.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44805" href="m44805.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44806" href="m44806.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44807" href="m44807.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44808" href="m44808.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44809" href="m44809.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44810" href="m44810.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44811" href="m44811.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44817" href="m44817.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44820" href="m44820.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44821" href="m44821.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44823" href="m44823.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44828" href="m44828.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44831" href="m44831.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44836" href="m44836.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44838" href="m44838.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44839" href="m44839.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44841" href="m44841.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44846" href="m44846.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44848" href="m44848.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44850" href="m44850.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44851" href="m44851.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44853" href="m44853.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44856" href="m44856.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44857" href="m44857.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44858" href="m44858.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44859" href="m44859.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44861" href="m44861.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44863" href="m44863.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44864" href="m44864.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44872" href="m44872.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44875" href="m44875.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44878" href="m44878.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44879" href="m44879.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44881" href="m44881.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44882" href="m44882.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44883" href="m44883.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44885" href="m44885.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44887" href="m44887.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44889" href="m44889.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44890" href="m44890.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44892" href="m44892.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44894" href="m44894.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44896" href="m44896.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m44898" href="m44898.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m45849" href="m45849.xhtml"/>
+    <item media-type="application/xhtml+xml" id="m46078" href="m46078.xhtml"/>
+  </manifest>
+  <spine>
+    <itemref linear="no" idref="toc"/>
+    <itemref linear="yes" idref="m44386"/>
+    <itemref linear="yes" idref="m44387"/>
+    <itemref linear="yes" idref="m44388"/>
+    <itemref linear="yes" idref="m44389"/>
+    <itemref linear="yes" idref="m44390"/>
+    <itemref linear="yes" idref="m44392"/>
+    <itemref linear="yes" idref="m44393"/>
+    <itemref linear="yes" idref="m44395"/>
+    <itemref linear="yes" idref="m44397"/>
+    <itemref linear="yes" idref="m44400"/>
+    <itemref linear="yes" idref="m44401"/>
+    <itemref linear="yes" idref="m44402"/>
+    <itemref linear="yes" idref="m44403"/>
+    <itemref linear="yes" idref="m44404"/>
+    <itemref linear="yes" idref="m44405"/>
+    <itemref linear="yes" idref="m44406"/>
+    <itemref linear="yes" idref="m44407"/>
+    <itemref linear="yes" idref="m44412"/>
+    <itemref linear="yes" idref="m44413"/>
+    <itemref linear="yes" idref="m44415"/>
+    <itemref linear="yes" idref="m44416"/>
+    <itemref linear="yes" idref="m44417"/>
+    <itemref linear="yes" idref="m44418"/>
+    <itemref linear="yes" idref="m44419"/>
+    <itemref linear="yes" idref="m44421"/>
+    <itemref linear="yes" idref="m44422"/>
+    <itemref linear="yes" idref="m44424"/>
+    <itemref linear="yes" idref="m44425"/>
+    <itemref linear="yes" idref="m44427"/>
+    <itemref linear="yes" idref="m44429"/>
+    <itemref linear="yes" idref="m44430"/>
+    <itemref linear="yes" idref="m44431"/>
+    <itemref linear="yes" idref="m44432"/>
+    <itemref linear="yes" idref="m44433"/>
+    <itemref linear="yes" idref="m44435"/>
+    <itemref linear="yes" idref="m44437"/>
+    <itemref linear="yes" idref="m44441"/>
+    <itemref linear="yes" idref="m44442"/>
+    <itemref linear="yes" idref="m44444"/>
+    <itemref linear="yes" idref="m44446"/>
+    <itemref linear="yes" idref="m44447"/>
+    <itemref linear="yes" idref="m44448"/>
+    <itemref linear="yes" idref="m44449"/>
+    <itemref linear="yes" idref="m44450"/>
+    <itemref linear="yes" idref="m44451"/>
+    <itemref linear="yes" idref="m44452"/>
+    <itemref linear="yes" idref="m44453"/>
+    <itemref linear="yes" idref="m44454"/>
+    <itemref linear="yes" idref="m44457"/>
+    <itemref linear="yes" idref="m44459"/>
+    <itemref linear="yes" idref="m44460"/>
+    <itemref linear="yes" idref="m44463"/>
+    <itemref linear="yes" idref="m44466"/>
+    <itemref linear="yes" idref="m44467"/>
+    <itemref linear="yes" idref="m44468"/>
+    <itemref linear="yes" idref="m44469"/>
+    <itemref linear="yes" idref="m44470"/>
+    <itemref linear="yes" idref="m44474"/>
+    <itemref linear="yes" idref="m44476"/>
+    <itemref linear="yes" idref="m44478"/>
+    <itemref linear="yes" idref="m44479"/>
+    <itemref linear="yes" idref="m44480"/>
+    <itemref linear="yes" idref="m44481"/>
+    <itemref linear="yes" idref="m44483"/>
+    <itemref linear="yes" idref="m44484"/>
+    <itemref linear="yes" idref="m44485"/>
+    <itemref linear="yes" idref="m44486"/>
+    <itemref linear="yes" idref="m44487"/>
+    <itemref linear="yes" idref="m44488"/>
+    <itemref linear="yes" idref="m44513"/>
+    <itemref linear="yes" idref="m44517"/>
+    <itemref linear="yes" idref="m44518"/>
+    <itemref linear="yes" idref="m44522"/>
+    <itemref linear="yes" idref="m44523"/>
+    <itemref linear="yes" idref="m44524"/>
+    <itemref linear="yes" idref="m44529"/>
+    <itemref linear="yes" idref="m44532"/>
+    <itemref linear="yes" idref="m44533"/>
+    <itemref linear="yes" idref="m44534"/>
+    <itemref linear="yes" idref="m44535"/>
+    <itemref linear="yes" idref="m44536"/>
+    <itemref linear="yes" idref="m44538"/>
+    <itemref linear="yes" idref="m44539"/>
+    <itemref linear="yes" idref="m44542"/>
+    <itemref linear="yes" idref="m44548"/>
+    <itemref linear="yes" idref="m44551"/>
+    <itemref linear="yes" idref="m44552"/>
+    <itemref linear="yes" idref="m44554"/>
+    <itemref linear="yes" idref="m44555"/>
+    <itemref linear="yes" idref="m44558"/>
+    <itemref linear="yes" idref="m44560"/>
+    <itemref linear="yes" idref="m44561"/>
+    <itemref linear="yes" idref="m44568"/>
+    <itemref linear="yes" idref="m44573"/>
+    <itemref linear="yes" idref="m44574"/>
+    <itemref linear="yes" idref="m44575"/>
+    <itemref linear="yes" idref="m44582"/>
+    <itemref linear="yes" idref="m44584"/>
+    <itemref linear="yes" idref="m44586"/>
+    <itemref linear="yes" idref="m44587"/>
+    <itemref linear="yes" idref="m44588"/>
+    <itemref linear="yes" idref="m44591"/>
+    <itemref linear="yes" idref="m44593"/>
+    <itemref linear="yes" idref="m44594"/>
+    <itemref linear="yes" idref="m44595"/>
+    <itemref linear="yes" idref="m44597"/>
+    <itemref linear="yes" idref="m44599"/>
+    <itemref linear="yes" idref="m44601"/>
+    <itemref linear="yes" idref="m44602"/>
+    <itemref linear="yes" idref="m44603"/>
+    <itemref linear="yes" idref="m44605"/>
+    <itemref linear="yes" idref="m44606"/>
+    <itemref linear="yes" idref="m44607"/>
+    <itemref linear="yes" idref="m44609"/>
+    <itemref linear="yes" idref="m44612"/>
+    <itemref linear="yes" idref="m44614"/>
+    <itemref linear="yes" idref="m44616"/>
+    <itemref linear="yes" idref="m44617"/>
+    <itemref linear="yes" idref="m44619"/>
+    <itemref linear="yes" idref="m44620"/>
+    <itemref linear="yes" idref="m44622"/>
+    <itemref linear="yes" idref="m44625"/>
+    <itemref linear="yes" idref="m44628"/>
+    <itemref linear="yes" idref="m44629"/>
+    <itemref linear="yes" idref="m44632"/>
+    <itemref linear="yes" idref="m44633"/>
+    <itemref linear="yes" idref="m44635"/>
+    <itemref linear="yes" idref="m44637"/>
+    <itemref linear="yes" idref="m44638"/>
+    <itemref linear="yes" idref="m44640"/>
+    <itemref linear="yes" idref="m44643"/>
+    <itemref linear="yes" idref="m44648"/>
+    <itemref linear="yes" idref="m44650"/>
+    <itemref linear="yes" idref="m44652"/>
+    <itemref linear="yes" idref="m44653"/>
+    <itemref linear="yes" idref="m44654"/>
+    <itemref linear="yes" idref="m44655"/>
+    <itemref linear="yes" idref="m44656"/>
+    <itemref linear="yes" idref="m44658"/>
+    <itemref linear="yes" idref="m44660"/>
+    <itemref linear="yes" idref="m44661"/>
+    <itemref linear="yes" idref="m44663"/>
+    <itemref linear="yes" idref="m44664"/>
+    <itemref linear="yes" idref="m44665"/>
+    <itemref linear="yes" idref="m44667"/>
+    <itemref linear="yes" idref="m44681"/>
+    <itemref linear="yes" idref="m44684"/>
+    <itemref linear="yes" idref="m44685"/>
+    <itemref linear="yes" idref="m44687"/>
+    <itemref linear="yes" idref="m44688"/>
+    <itemref linear="yes" idref="m44689"/>
+    <itemref linear="yes" idref="m44692"/>
+    <itemref linear="yes" idref="m44694"/>
+    <itemref linear="yes" idref="m44696"/>
+    <itemref linear="yes" idref="m44698"/>
+    <itemref linear="yes" idref="m44700"/>
+    <itemref linear="yes" idref="m44702"/>
+    <itemref linear="yes" idref="m44704"/>
+    <itemref linear="yes" idref="m44706"/>
+    <itemref linear="yes" idref="m44708"/>
+    <itemref linear="yes" idref="m44711"/>
+    <itemref linear="yes" idref="m44712"/>
+    <itemref linear="yes" idref="m44714"/>
+    <itemref linear="yes" idref="m44715"/>
+    <itemref linear="yes" idref="m44718"/>
+    <itemref linear="yes" idref="m44720"/>
+    <itemref linear="yes" idref="m44722"/>
+    <itemref linear="yes" idref="m44723"/>
+    <itemref linear="yes" idref="m44725"/>
+    <itemref linear="yes" idref="m44728"/>
+    <itemref linear="yes" idref="m44730"/>
+    <itemref linear="yes" idref="m44731"/>
+    <itemref linear="yes" idref="m44733"/>
+    <itemref linear="yes" idref="m44734"/>
+    <itemref linear="yes" idref="m44736"/>
+    <itemref linear="yes" idref="m44740"/>
+    <itemref linear="yes" idref="m44742"/>
+    <itemref linear="yes" idref="m44744"/>
+    <itemref linear="yes" idref="m44745"/>
+    <itemref linear="yes" idref="m44747"/>
+    <itemref linear="yes" idref="m44748"/>
+    <itemref linear="yes" idref="m44749"/>
+    <itemref linear="yes" idref="m44751"/>
+    <itemref linear="yes" idref="m44752"/>
+    <itemref linear="yes" idref="m44753"/>
+    <itemref linear="yes" idref="m44754"/>
+    <itemref linear="yes" idref="m44757"/>
+    <itemref linear="yes" idref="m44760"/>
+    <itemref linear="yes" idref="m44761"/>
+    <itemref linear="yes" idref="m44764"/>
+    <itemref linear="yes" idref="m44765"/>
+    <itemref linear="yes" idref="m44766"/>
+    <itemref linear="yes" idref="m44768"/>
+    <itemref linear="yes" idref="m44771"/>
+    <itemref linear="yes" idref="m44775"/>
+    <itemref linear="yes" idref="m44777"/>
+    <itemref linear="yes" idref="m44781"/>
+    <itemref linear="yes" idref="m44783"/>
+    <itemref linear="yes" idref="m44786"/>
+    <itemref linear="yes" idref="m44788"/>
+    <itemref linear="yes" idref="m44789"/>
+    <itemref linear="yes" idref="m44790"/>
+    <itemref linear="yes" idref="m44792"/>
+    <itemref linear="yes" idref="m44795"/>
+    <itemref linear="yes" idref="m44797"/>
+    <itemref linear="yes" idref="m44799"/>
+    <itemref linear="yes" idref="m44800"/>
+    <itemref linear="yes" idref="m44801"/>
+    <itemref linear="yes" idref="m44804"/>
+    <itemref linear="yes" idref="m44805"/>
+    <itemref linear="yes" idref="m44806"/>
+    <itemref linear="yes" idref="m44807"/>
+    <itemref linear="yes" idref="m44808"/>
+    <itemref linear="yes" idref="m44809"/>
+    <itemref linear="yes" idref="m44810"/>
+    <itemref linear="yes" idref="m44811"/>
+    <itemref linear="yes" idref="m44817"/>
+    <itemref linear="yes" idref="m44820"/>
+    <itemref linear="yes" idref="m44821"/>
+    <itemref linear="yes" idref="m44823"/>
+    <itemref linear="yes" idref="m44828"/>
+    <itemref linear="yes" idref="m44831"/>
+    <itemref linear="yes" idref="m44836"/>
+    <itemref linear="yes" idref="m44838"/>
+    <itemref linear="yes" idref="m44839"/>
+    <itemref linear="yes" idref="m44841"/>
+    <itemref linear="yes" idref="m44846"/>
+    <itemref linear="yes" idref="m44848"/>
+    <itemref linear="yes" idref="m44850"/>
+    <itemref linear="yes" idref="m44851"/>
+    <itemref linear="yes" idref="m44853"/>
+    <itemref linear="yes" idref="m44856"/>
+    <itemref linear="yes" idref="m44857"/>
+    <itemref linear="yes" idref="m44858"/>
+    <itemref linear="yes" idref="m44859"/>
+    <itemref linear="yes" idref="m44861"/>
+    <itemref linear="yes" idref="m44863"/>
+    <itemref linear="yes" idref="m44864"/>
+    <itemref linear="yes" idref="m44872"/>
+    <itemref linear="yes" idref="m44875"/>
+    <itemref linear="yes" idref="m44878"/>
+    <itemref linear="yes" idref="m44879"/>
+    <itemref linear="yes" idref="m44881"/>
+    <itemref linear="yes" idref="m44882"/>
+    <itemref linear="yes" idref="m44883"/>
+    <itemref linear="yes" idref="m44885"/>
+    <itemref linear="yes" idref="m44887"/>
+    <itemref linear="yes" idref="m44889"/>
+    <itemref linear="yes" idref="m44890"/>
+    <itemref linear="yes" idref="m44892"/>
+    <itemref linear="yes" idref="m44894"/>
+    <itemref linear="yes" idref="m44896"/>
+    <itemref linear="yes" idref="m44898"/>
+    <itemref linear="yes" idref="m45849"/>
+    <itemref linear="yes" idref="m46078"/>
+  </spine>
+</package>
