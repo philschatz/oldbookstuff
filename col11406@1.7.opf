@@ -5,7 +5,7 @@
     <meta refines="#title" property="title-type">main</meta>
     <dc:creator id="creator">Connexions</dc:creator>
     <meta refines="#creator" property="file-as">Connexions</meta>
-    <dc:identifier id="pub-id">org.cnx.sample</dc:identifier>
+    <dc:identifier id="pub-id">org.cnx.col11406@1.7</dc:identifier>
     <dc:language>en-US</dc:language>
     <meta property="dcterms:modified">2013-06-23T12:47:00Z</meta>
     <dc:publisher>Connexions</dc:publisher>

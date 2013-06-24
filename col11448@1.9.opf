@@ -3,10 +3,9 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title id="title">Biology (col11448@1.9)</dc:title>
     <meta refines="#title" property="title-type">main</meta>
-    <dc:creator id="creator">Connexion</dc:creator>
+    <dc:creator id="creator">Connexions</dc:creator>
     <meta refines="#creator" property="file-as">Connexions</meta>
-    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
-    <dc:identifier id="pub-id">org.cnx.sample</dc:identifier>
+    <dc:identifier id="pub-id">org.cnx.col11448@1.9</dc:identifier>
     <dc:language>en-US</dc:language>
     <meta property="dcterms:modified">2013-06-23T12:47:00Z</meta>
     <dc:publisher>Connexions</dc:publisher>
@@ -15,7 +14,7 @@
     <meta property="cc:attributionURL">http://cnx.org/content/col11448/1.9</meta>
   </metadata>
   <manifest>
-    <item media-type="application/xhtml+xml" id="toc" href="col11448@1.9-toc.xhtml" properties="nav"/>
+    <item id="toc" properties="nav" href="col11448@1.9-toc.xhtml" media-type="application/xhtml+xml"/>
     <item media-type="application/xhtml+xml" id="m44386" href="m44386.xhtml"/>
     <item media-type="application/xhtml+xml" id="m44387" href="m44387.xhtml"/>
     <item media-type="application/xhtml+xml" id="m44388" href="m44388.xhtml"/>
