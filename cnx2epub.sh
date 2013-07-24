@@ -143,18 +143,20 @@ echo '    <link rel="cc:license" href="http://creativecommons.org/licenses/by/3.
 echo '    <meta property="cc:attributionURL">http://cnx.org/content</meta>' >> ${DEST}/${COLLECTION}.opf
 echo '  </metadata>' >> ${DEST}/${COLLECTION}.opf
 echo '  <manifest>' >> ${DEST}/${COLLECTION}.opf
-echo "    <item id=\"toc\" properties=\"nav\" href=\"content/${COLLECTION}-toc.xhtml\" media-type=\"application/xhtml+xml\"/>" >> ${DEST}/${COLLECTION}.opf
+echo "    <item id=\"toc\" properties=\"nav\" href=\"content/${COLLECTION}.xhtml\" media-type=\"application/xhtml+xml\"/>" >> ${DEST}/${COLLECTION}.opf
 
 # ToC Navigation doc
 HTML=$(xsltproc ${XSL_DIR}/collxml-to-html5.xsl collection.xml)
-echo '<?xml version="1.0" encoding="UTF-8"?>' > ${DEST}/content/${COLLECTION}-toc.xhtml
-echo "<html xmlns=\"http://www.w3.org/1999/xhtml\"><body>" >> ${DEST}/content/${COLLECTION}-toc.xhtml
-echo ${HTML} | xmllint --nsclean --pretty 2 - >> ${DEST}/content/${COLLECTION}-toc.xhtml
-echo "</body></html>" >> ${DEST}/content/${COLLECTION}-toc.xhtml
+echo '<?xml version="1.0" encoding="UTF-8"?>' > ${DEST}/content/${COLLECTION}.xhtml
+echo "<html xmlns=\"http://www.w3.org/1999/xhtml\"><body>" >> ${DEST}/content/${COLLECTION}.xhtml
+echo ${HTML} | xmllint --nsclean --pretty 2 - >> ${DEST}/content/${COLLECTION}.xhtml
+echo "</body></html>" >> ${DEST}/content/${COLLECTION}.xhtml
 
 
 for ID in ${MODULES}; do
   echo "Starting on ${ID}"
+  DEST_PATH=${DEST}/content/${ID}.xhtml
+
   CNXML_FILE=${ID}/index_auto_generated.cnxml
   TITLE=$(echo ${TITLES_XSL} | xsltproc - ${CNXML_FILE})
   MEDIA_TYPES=$(echo ${IMAGE_MEDIATYPES_XSL} | xsltproc - ${CNXML_FILE})
@@ -164,10 +166,11 @@ for ID in ${MODULES}; do
   echo ${ALT_TEXT_XSL} | xsltproc - ${CNXML_FILE} | sed "s/#/${ID}#/g" >> ${ROOT}/phil.txt
 
   # XHTML File
-  echo '<?xml version="1.0" encoding="UTF-8"?>' > ${DEST}/content/${ID}.xhtml
-  echo "<html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title>${TITLE}</title></head>" >> ${DEST}/content/${ID}.xhtml
-  echo ${HTML} | xmllint --nsclean --pretty 2 - >> ${DEST}/content/${ID}.xhtml
-  echo '</html>' >> ${DEST}/content/${ID}.xhtml
+  echo '<?xml version="1.0" encoding="UTF-8"?>' > ${DEST_PATH}
+  echo "<html xmlns=\"http://www.w3.org/1999/xhtml\">" >> ${DEST_PATH}
+  xsltproc ${XSL_DIR}/cnxml-to-html5-metadata.xsl ${CNXML_FILE} | xmllint --nsclean --pretty 2 - >> ${DEST_PATH}
+  echo ${HTML} | xmllint --nsclean --pretty 2 - >> ${DEST_PATH}
+  echo '</html>' >> ${DEST_PATH}
 
   # OPF File manifest entry
   echo "    <item media-type=\"application/xhtml+xml\" id=\"${ID}\" href=\"content/${ID}.xhtml\"/>" >> ${DEST}/${COLLECTION}.opf
